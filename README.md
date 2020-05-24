@@ -1,5 +1,5 @@
 # Betacoronavirus_localBLAST_jpynb
-A tutorial to launch local Blast+ from Jupyter Notebook and compare sequences of SARS-nCoV-2 Spike protein gene to databases. 
+A tutorial to launch local Blast+ from Jupyter Notebook and compare sequences of SARS-nCoV-2 Spike protein gene and the entire genome to local and remote databases. 
 Written by Katharina Wollenberg Valero 2020 as an educational resource for undergraduate students.
 A friendly nod to https://github.com/davelunt, whose tutorial I couldn't get to work.
 
