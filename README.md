@@ -3,6 +3,8 @@ A tutorial to launch local Blast+ from Jupyter Notebook and compare sequences of
 Written by Katharina Wollenberg Valero 2020 as an educational resource for undergraduate students.
 A friendly nod to https://github.com/davelunt, whose tutorial I couldn't get to work.
 
+### An alternative notebook is available now that you can run from colab.research.google.com, if Docker isn't working for you
+
 ### Setting up the Jupyter Notebook via docker and cloning the github repository
 On your computer, make sure `Docker desktop` is running by checking the "show hidden icons" menu at the bottom right of your toolbar
 Open a command line terminal and make sure no docker images are running with `docker ps`. If there is still a running image, terminate it with `docker stop XXXXX` where XXX is the ID of the image as seen in the `docker ps` output.   
